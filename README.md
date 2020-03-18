@@ -1,6 +1,7 @@
 # wa_pro_ldp
 
-This project is a reproduction of [this paper](https://ieeexplore.ieee.org/document/8835348)
+This project is a reproduction of [this paper](https://ieeexplore.ieee.org/document/8835348).
+
 Each member implements his own version on a branch.
 
 ## Instructions for group member
